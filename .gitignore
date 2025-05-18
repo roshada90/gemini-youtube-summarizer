@@ -1,0 +1,19 @@
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+# Misc
+*.local
+*.readmes
+*.idea  
+
+# Python virtual environments
+.venv/
+venv/
+.python-version
